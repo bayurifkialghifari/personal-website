@@ -3,20 +3,56 @@
   "profile": {
     "name": "BAYU RIFKI ALGHIFARI",
     "desc": [
-      "Working with PHP Laravel",
-      "Intrested in music science fiction, including movies, books."
+      "Fullstack Developer | Laravel | Golang | NodeJs",
+      "Interested in science fiction, movies, books, reading novels and manga."
     ],
     "github": "bayurifkialghifari"
   },
   "source": "https://github.com/bayurifkialghifari/personal-website",
   "projects": [
     {
+      "title": "Platform IPTV (CMS)",
+      "description": "IPTV Management System for Hotels",
+      "link": "https://github.com/karuhun-developer/hotel",
+      "image": "https://ohnooooo.sirv.com/Portfolio/iptvmanagementsystem.png",
+      "tags": ["Laravel", "Full Stack"]
+    },
+    {
       "title": "Platform IPTV (Forty TV)",
       "description": "FORTY TV hotel management system.",
-      "link": "#",
+      "link": "https://github.com/karuhun-developer/LauncherCompose",
       "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
       "tags": ["Laravel", "Livewire", "Java"]
     },
+    {
+      "title": "Topup PPOB Platform",
+      "description": "Topup & PPOB Platform",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/topup-ppob-platform.png",
+      "tags": ["Web App", "PPOB", "Full Stack"]
+    },
+    {
+      "title": "SERVER MONITORING",
+      "description": "Server Monitoring System",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/server%20monitoring.png",
+      "tags": ["Monitoring", "System"]
+    },
+    {
+      "title": "CBT ONLINE",
+      "description": "Computer Based Test Online System",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/cbtonline.png",
+      "tags": ["Education", "Web App"]
+    },
+    {
+      "title": "KOPERASI SIMPAN PINJAM",
+      "description": "Koperasi Simpan Pinjam Application",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/koperasi-simpan-pinjam.png",
+      "tags": ["Finance", "Web App"]
+    },
+
     {
       "title": "Sikelim",
       "description": "Sistem Informasi Kelola Limbah Medis",
@@ -175,6 +211,18 @@
       "text": "Bayu Rifki Alghifari Project.co.id",
       "link": "https://projects.co.id/public/browse_users/view/8d311e/bayurifkialgh",
       "color": "#07c160"
+    },
+    {
+      "icon": "ri:instagram-line",
+      "text": "bayualgh",
+      "link": "https://www.instagram.com/bayualgh/",
+      "color": "#E1306C"
+    },
+    {
+      "icon": "ri:linkedin-fill",
+      "text": "Bayu Rifki Alghifari",
+      "link": "https://www.linkedin.com/in/bayurifkialghifari/",
+      "color": "#0077B5"
     }
   ]
 }
