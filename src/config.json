@@ -15,42 +15,42 @@
       "description": "IPTV Management System for Hotels",
       "link": "https://github.com/karuhun-developer/hotel",
       "image": "https://ohnooooo.sirv.com/Portfolio/iptvmanagementsystem.png",
-      "tags": ["Laravel", "Full Stack"]
+      "tags": ["Laravel", "Livewire"]
     },
     {
       "title": "Platform IPTV (Forty TV)",
       "description": "FORTY TV hotel management system.",
       "link": "https://github.com/karuhun-developer/LauncherCompose",
       "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
-      "tags": ["Laravel", "Livewire", "Java"]
+      "tags": ["Android", "Kotlin"]
     },
     {
       "title": "Topup PPOB Platform",
       "description": "Topup & PPOB Platform",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/topup-ppob-platform.png",
-      "tags": ["Web App", "PPOB", "Full Stack"]
+      "tags": ["Laravel", "NextJs"]
     },
     {
       "title": "SERVER MONITORING",
       "description": "Server Monitoring System",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/server%20monitoring.png",
-      "tags": ["Monitoring", "System"]
+      "tags": ["Laravel", "Livewire"]
     },
     {
       "title": "CBT ONLINE",
       "description": "Computer Based Test Online System",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/cbtonline.png",
-      "tags": ["Education", "Web App"]
+      "tags": ["Laravel", "NextJs"]
     },
     {
       "title": "KOPERASI SIMPAN PINJAM",
       "description": "Koperasi Simpan Pinjam Application",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/koperasi-simpan-pinjam.png",
-      "tags": ["Finance", "Web App"]
+      "tags": ["Laravel", "NextJs"]
     },
 
     {
