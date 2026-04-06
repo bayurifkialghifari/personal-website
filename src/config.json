@@ -27,15 +27,15 @@
     {
       "title": "Topup PPOB Platform",
       "description": "Topup & PPOB Platform",
-      "link": "#",
-      "image": "https://ohnooooo.sirv.com/Portfolio/topup-ppob-platform.png",
+      "link": "https://github.com/karuhun-developer/webtopup",
+      "image": "https://ohnooooo.sirv.com/Portfolio/topup.png",
       "tags": ["Laravel", "NextJs"]
     },
     {
       "title": "SERVER MONITORING",
       "description": "Server Monitoring System",
       "link": "#",
-      "image": "https://ohnooooo.sirv.com/Portfolio/server%20monitoring.png",
+      "image": "https://ohnooooo.sirv.com/Portfolio/server-monitoring.png",
       "tags": ["Laravel", "Livewire"]
     },
     {
