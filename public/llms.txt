@@ -1,0 +1,38 @@
+# Bayu Rifki Alghifari - Full Stack Web Developer
+
+> Bayu Rifki Alghifari is a professional Full Stack Web Developer and software engineer from Indonesia specializing in Laravel, React, Vue.js, PHP, Golang, and Node.js. He designs and develops high-performance web applications, scalable backend systems, RESTful APIs, and responsive frontends.
+
+## Profile Summary
+- **Name**: Bayu Rifki Alghifari
+- **Known As**: bayualgh, bayurifkialghifari
+- **Role**: Full Stack Web Developer / Backend Developer / Freelancer
+- **Location**: Indonesia
+- **Specializations**: Laravel, React.js, Vue.js, PHP, Golang, Node.js, Next.js, Livewire, MySQL, REST APIs
+
+## Core Technical Skills
+- **Backend**: Laravel (PHP), Golang, Node.js, CodeIgniter, Livewire, RESTful APIs, Microservices
+- **Frontend**: Vue.js (Vue 2 & Vue 3), React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5/CSS3
+- **Databases**: MySQL, PostgreSQL, Redis
+- **DevOps & Tools**: Git, Docker, Linux Server Administration, Nginx, Vite
+
+## Featured Portfolio Projects
+- **Sikelim (Kemkes)**: Medical waste management information system for the Ministry of Health Republic of Indonesia (Laravel, Vue 2).
+- **FTTH Platform**: Fiber To The Home platform for Internet Service Providers (Kotlin, React).
+- **IPTV Management System (CMS & Forty TV)**: Hospitality IPTV management platform for hotel systems (Laravel, Livewire, Android Compose).
+- **Topup & PPOB Platform**: Game voucher and bill payment transaction system (Laravel, Vue 3).
+- **TAXIe**: On-demand ride-hailing and multi-service platform (Laravel, React).
+- **CBT Online**: Computer-Based Testing and examination platform (Laravel, Next.js).
+- **Adaptasi KLHK**: Climate change adaptation portal for Ministry of Environment and Forestry (Laravel, Vue 2).
+- **Koperasi Simpan Pinjam**: Financial cooperative credit and savings management web app (Laravel, Next.js).
+
+## Contact & Links
+- **GitHub**: https://github.com/bayurifkialghifari
+- **LinkedIn**: https://www.linkedin.com/in/bayurifkialghifari/
+- **Resume & CV**: https://www.cake.me/bayu-rifki-alghifari
+- **Projects.co.id**: https://projects.co.id/public/browse_users/view/8d311e/bayurifkialgh
+- **Email**: bayurifkialgh@gmail.com
+- **Telegram**: http://t.me/bayurifkialgh
+- **Instagram**: https://www.instagram.com/bayualgh/
+
+## Detailed Context
+For comprehensive technical details, full project directory, and architecture breakdown, see [llms-full.txt](/llms-full.txt).

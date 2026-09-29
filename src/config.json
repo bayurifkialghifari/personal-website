@@ -2,14 +2,62 @@
   "greet": "Hello,",
   "profile": {
     "name": "BAYU RIFKI ALGHIFARI",
+    "title": "Full Stack Web Developer | Laravel, React, Vue.js",
     "desc": [
-      "Fullstack Developer | Laravel | Golang | NodeJs",
+      "Full Stack Web Developer | Laravel | React | Vue | Golang | Node.js",
+      "Specializing in modern web applications, scalable backend systems, and responsive frontends.",
       "Interested in science fiction, movies, books, reading novels and manga."
     ],
     "github": "bayurifkialghifari"
   },
+  "seo": {
+    "title": "Bayu Rifki Alghifari - Full Stack Web Developer | Laravel, React, Vue.js",
+    "description": "Portfolio resmi Bayu Rifki Alghifari, Full Stack Web Developer berpengalaman dengan spesialisasi Laravel, React, Vue.js, PHP, Golang, dan Node.js. Menangani arsitektur sistem enterprise, web application, dan freelance developer.",
+    "keywords": "Bayu Rifki Alghifari, bayualgh, Web Developer, Full Stack Developer, Fullstack Developer Indonesia, Laravel Developer, React Developer, Vue Developer, PHP Developer, Freelance Developer, Jasa Pembuatan Website, Golang, Node.js, Next.js, System Architecture",
+    "ogImage": "https://github.com/bayurifkialghifari.png"
+  },
+  "skills": [
+    "Laravel",
+    "React",
+    "Vue.js",
+    "PHP",
+    "Golang",
+    "Node.js",
+    "Next.js",
+    "Livewire",
+    "CodeIgniter",
+    "MySQL",
+    "PostgreSQL",
+    "Redis",
+    "RESTful API",
+    "Tailwind CSS",
+    "Docker",
+    "Git",
+    "Linux"
+  ],
   "source": "https://github.com/bayurifkialghifari/personal-website",
   "projects": [
+    {
+      "title": "FTTH Platform",
+      "description": "FTTH Platform for ISP",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/ftth.png",
+      "tags": ["Kotlin", "React"]
+    },
+    {
+      "title": "Laundry App",
+      "description": "Laundry App for laundry business",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/laundry%20app.png",
+      "tags": ["Laravel", "Vue 3", "Capacitor Js"]
+    },
+    {
+      "title": "Ecommerce Platform",
+      "description": "Ecommerce Platform for selling products online",
+      "link": "https://github.com/karuhun-developer/ecommerce",
+      "image": "https://ohnooooo.sirv.com/Portfolio/ecommerce.png",
+      "tags": ["Laravel", "Livewire"]
+    },
     {
       "title": "Platform IPTV (CMS)",
       "description": "IPTV Management System for Hotels",
@@ -195,10 +243,10 @@
       "color": "#374151"
     },
     {
-      "icon": "ri:whatsapp-line",
-      "text": "+6281909866787",
-      "link": "https://wa.me/6281909866787",
-      "color": "#07c160"
+      "icon": "ri:telegram-line",
+      "text": "bayurifkialgh",
+      "link": "http://t.me/bayurifkialgh",
+      "color": "#229ED9"
     },
     {
       "icon": "ri:mail-line",
