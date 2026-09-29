@@ -44,4 +44,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap
-Sitemap: /sitemap.xml
+Sitemap: https://bayurifki.vercel.app/sitemap.xml
