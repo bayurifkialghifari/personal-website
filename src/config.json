@@ -39,6 +39,20 @@
   "source": "https://github.com/bayurifkialghifari/personal-website",
   "projects": [
     {
+      "title": "QRIS Karuhun",
+      "description": "Dynamic QRIS platform with automatic ShopeePay and GoPay payment verification.",
+      "link": "https://qris.karuhundeveloper.com/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/qriskaruhun.png",
+      "tags": ["Express"]
+    },
+    {
+      "title": "Terblox",
+      "description": "Robux top-up platform.",
+      "link": "https://terbloxxx.store/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/terblox.png",
+      "tags": []
+    },
+    {
       "title": "FTTH Platform",
       "description": "FTTH Platform for ISP",
       "link": "#",
